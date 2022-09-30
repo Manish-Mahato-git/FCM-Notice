@@ -1,0 +1,25 @@
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\FCM Notice.csproj.AssemblyReference.cache
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\FCM_Notice.Views.FCMNotice.resources
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\FCM Notice.csproj.GenerateResource.cache
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\FCM Notice.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\FCM Notice.AssemblyInfoInputs.cache
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\FCM Notice.AssemblyInfo.cs
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\FCM Notice.csproj.CoreCompileInputs.cache
+F:\C#\FCM Notice\FCM Notice\bin\Debug\net6.0-windows\FCM Notice.exe
+F:\C#\FCM Notice\FCM Notice\bin\Debug\net6.0-windows\FCM Notice.deps.json
+F:\C#\FCM Notice\FCM Notice\bin\Debug\net6.0-windows\FCM Notice.runtimeconfig.json
+F:\C#\FCM Notice\FCM Notice\bin\Debug\net6.0-windows\FCM Notice.dll
+F:\C#\FCM Notice\FCM Notice\bin\Debug\net6.0-windows\FCM Notice.pdb
+F:\C#\FCM Notice\FCM Notice\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+F:\C#\FCM Notice\FCM Notice\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\C#\FCM Notice\FCM Notice\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\C#\FCM Notice\FCM Notice\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\C#\FCM Notice\FCM Notice\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\C#\FCM Notice\FCM Notice\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\C#\FCM Notice\FCM Notice\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\FCM Notice.csproj.CopyComplete
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\FCM Notice.dll
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\refint\FCM Notice.dll
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\FCM Notice.pdb
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\FCM Notice.genruntimeconfig.cache
+F:\C#\FCM Notice\FCM Notice\obj\Debug\net6.0-windows\ref\FCM Notice.dll
